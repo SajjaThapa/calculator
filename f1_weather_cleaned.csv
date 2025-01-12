@@ -1,0 +1,84 @@
+Year,Round,Grand Prix,Circuit,Date,Latitude,Longitude,Weather
+2020,1,Austrian Gp,Red Bull Ring,2020-07-05,47.2197,14.7647,Dry
+2020,2,Styrian Gp,Red Bull Ring,2020-07-12,47.2197,14.7647,Dry
+2020,3,Hungarian Gp,Hungaroring,2020-07-19,47.5789,19.2486,Wet
+2020,4,British Gp,Silverstone Circuit,2020-08-02,52.0786,-1.01694,Wet
+2020,5,70Th Anniversary Gp,Silverstone Circuit,2020-08-09,52.0786,-1.01694,Dry
+2020,6,Spanish Gp,Circuit De Barcelona-Catalunya,2020-08-16,41.57,2.26111,Wet
+2020,7,Belgian Gp,Circuit De Spa-Francorchamps,2020-08-30,50.4372,5.97139,Wet
+2020,8,Italian Gp,Autodromo Nazionale Di Monza,2020-09-06,45.6156,9.28111,Wet
+2020,9,Tuscan Gp,Autodromo Internazionale Del Mugello,2020-09-13,43.9975,11.3719,Dry
+2020,10,Russian Gp,Sochi Autodrom,2020-09-27,43.4057,39.9578,Dry
+2020,11,Eifel Gp,Nürburgring,2020-10-11,50.3356,6.9475,Wet
+2020,12,Portuguese Gp,Autódromo Internacional Do Algarve,2020-10-25,37.227,-8.6267,Wet
+2020,13,Emilia Romagna Gp,Autodromo Enzo E Dino Ferrari,2020-11-01,44.3439,11.7167,Dry
+2020,14,Turkish Gp,Istanbul Park,2020-11-15,40.9517,29.405,Wet
+2020,15,Bahrain Gp,Bahrain International Circuit,2020-11-29,26.0325,50.5106,Wet
+2020,16,Sakhir Gp,Bahrain International Circuit,2020-12-06,26.0325,50.5106,Unknown
+2020,17,Abu Dhabi Gp,Yas Marina Circuit,2020-12-13,24.4672,54.6031,Dry
+2021,1,Bahrain Gp,Bahrain International Circuit,2021-03-28,26.0325,50.5106,Unknown
+2021,2,Emilia Romagna Gp,Autodromo Enzo E Dino Ferrari,2021-04-18,44.3439,11.7167,Wet
+2021,3,Portuguese Gp,Autódromo Internacional Do Algarve,2021-05-02,37.227,-8.6267,Dry
+2021,4,Spanish Gp,Circuit De Barcelona-Catalunya,2021-05-09,41.57,2.26111,Wet
+2021,5,Monaco Gp,Circuit De Monaco,2021-05-23,43.7347,7.42056,Unknown
+2021,6,Azerbaijan Gp,Baku City Circuit,2021-06-06,40.3725,49.8533,Dry
+2021,7,French Gp,Circuit Paul Ricard,2021-06-20,43.2506,5.79167,Wet
+2021,8,Styrian Gp,Red Bull Ring,2021-06-27,47.2197,14.7647,Wet
+2021,9,Austrian Gp,Red Bull Ring,2021-07-04,47.2197,14.7647,Wet
+2021,10,British Gp,Silverstone Circuit,2021-07-18,52.0786,-1.01694,Dry
+2021,11,Hungarian Gp,Hungaroring,2021-08-01,47.5789,19.2486,Wet
+2021,12,Belgian Gp,Circuit De Spa-Francorchamps,2021-08-29,50.4372,5.97139,Wet
+2021,13,Dutch Gp,Circuit Park Zandvoort,2021-09-05,52.3888,4.54092,Dry
+2021,14,Italian Gp,Autodromo Nazionale Di Monza,2021-09-12,45.6156,9.28111,Dry
+2021,15,Russian Gp,Sochi Autodrom,2021-09-26,43.4057,39.9578,Wet
+2021,16,Turkish Gp,Istanbul Park,2021-10-10,40.9517,29.405,Wet
+2021,17,United States Gp,Circuit Of The Americas,2021-10-24,30.1328,-97.6411,Wet
+2021,18,Mexico City Gp,Autódromo Hermanos Rodríguez,2021-11-07,19.4042,-99.0907,Dry
+2021,19,São Paulo Gp,Autódromo José Carlos Pace,2021-11-14,-23.7036,-46.6997,Dry
+2021,20,Qatar Gp,Losail International Circuit,2021-11-21,25.49,51.4542,Dry
+2021,21,Saudi Arabian Gp,Jeddah Corniche Circuit,2021-12-05,21.6319,39.1044,Unknown
+2021,22,Abu Dhabi Gp,Yas Marina Circuit,2021-12-12,24.4672,54.6031,Dry
+2022,1,Bahrain Gp,Bahrain International Circuit,2022-03-20,26.0325,50.5106,Dry
+2022,2,Saudi Arabian Gp,Jeddah Corniche Circuit,2022-03-27,21.6319,39.1044,Dry
+2022,3,Australian Gp,Albert Park Grand Prix Circuit,2022-04-10,-37.8497,144.968,Wet
+2022,4,Emilia Romagna Gp,Autodromo Enzo E Dino Ferrari,2022-04-24,44.3439,11.7167,Wet
+2022,5,Miami Gp,Miami International Autodrome,2022-05-08,25.9581,-80.2389,Wet
+2022,6,Spanish Gp,Circuit De Barcelona-Catalunya,2022-05-22,41.57,2.26111,Dry
+2022,7,Monaco Gp,Circuit De Monaco,2022-05-29,43.7347,7.42056,Wet
+2022,8,Azerbaijan Gp,Baku City Circuit,2022-06-12,40.3725,49.8533,Dry
+2022,9,Canadian Gp,Circuit Gilles Villeneuve,2022-06-19,45.5,-73.5228,Dry
+2022,10,British Gp,Silverstone Circuit,2022-07-03,52.0786,-1.01694,Wet
+2022,11,Austrian Gp,Red Bull Ring,2022-07-10,47.2197,14.7647,Wet
+2022,12,French Gp,Circuit Paul Ricard,2022-07-24,43.2506,5.79167,Dry
+2022,13,Hungarian Gp,Hungaroring,2022-07-31,47.5789,19.2486,Unknown
+2022,14,Belgian Gp,Circuit De Spa-Francorchamps,2022-08-28,50.4372,5.97139,Wet
+2022,15,Dutch Gp,Circuit Park Zandvoort,2022-09-04,52.3888,4.54092,Wet
+2022,16,Italian Gp,Autodromo Nazionale Di Monza,2022-09-11,45.6156,9.28111,Dry
+2022,17,Singapore Gp,Marina Bay Street Circuit,2022-10-02,1.2914,103.864,Wet
+2022,18,Japanese Gp,Suzuka Circuit,2022-10-09,34.8431,136.541,Wet
+2022,19,United States Gp,Circuit Of The Americas,2022-10-23,30.1328,-97.6411,Dry
+2022,20,Mexico City Gp,Autódromo Hermanos Rodríguez,2022-10-30,19.4042,-99.0907,Wet
+2022,21,São Paulo Gp,Autódromo José Carlos Pace,2022-11-13,-23.7036,-46.6997,Dry
+2022,22,Abu Dhabi Gp,Yas Marina Circuit,2022-11-20,24.4672,54.6031,Dry
+2023,1,Bahrain Gp,Bahrain International Circuit,2023-03-05,26.0325,50.5106,Dry
+2023,2,Saudi Arabian Gp,Jeddah Corniche Circuit,2023-03-19,21.6319,39.1044,Unknown
+2023,3,Australian Gp,Albert Park Grand Prix Circuit,2023-04-02,-37.8497,144.968,Dry
+2023,4,Azerbaijan Gp,Baku City Circuit,2023-04-30,40.3725,49.8533,Wet
+2023,5,Miami Gp,Miami International Autodrome,2023-05-07,25.9581,-80.2389,Wet
+2023,6,Monaco Gp,Circuit De Monaco,2023-05-28,43.7347,7.42056,Wet
+2023,7,Spanish Gp,Circuit De Barcelona-Catalunya,2023-06-04,41.57,2.26111,Wet
+2023,8,Canadian Gp,Circuit Gilles Villeneuve,2023-06-18,45.5,-73.5228,Wet
+2023,9,Austrian Gp,Red Bull Ring,2023-07-02,47.2197,14.7647,Wet
+2023,10,British Gp,Silverstone Circuit,2023-07-09,52.0786,-1.01694,Wet
+2023,11,Hungarian Gp,Hungaroring,2023-07-23,47.5789,19.2486,Dry
+2023,12,Belgian Gp,Circuit De Spa-Francorchamps,2023-07-30,50.4372,5.97139,Wet
+2023,13,Dutch Gp,Circuit Park Zandvoort,2023-08-27,52.3888,4.54092,Unknown
+2023,14,Italian Gp,Autodromo Nazionale Di Monza,2023-09-03,45.6156,9.28111,Dry
+2023,15,Singapore Gp,Marina Bay Street Circuit,2023-09-17,1.2914,103.864,Wet
+2023,16,Japanese Gp,Suzuka Circuit,2023-09-24,34.8431,136.541,Dry
+2023,17,Qatar Gp,Losail International Circuit,2023-10-08,25.49,51.4542,Unknown
+2023,18,United States Gp,Circuit Of The Americas,2023-10-22,30.1328,-97.6411,Wet
+2023,19,Mexico City Gp,Autódromo Hermanos Rodríguez,2023-10-29,19.4042,-99.0907,Wet
+2023,20,São Paulo Gp,Autódromo José Carlos Pace,2023-11-05,-23.7036,-46.6997,Wet
+2023,21,Las Vegas Gp,Las Vegas Strip Street Circuit,2023-11-19,36.1147,-115.173,Dry
+2023,22,Abu Dhabi Gp,Yas Marina Circuit,2023-11-26,24.4672,54.6031,Unknown
